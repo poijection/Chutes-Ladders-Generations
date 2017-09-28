@@ -10,7 +10,6 @@ Jiachang (Ernest) Xu jiachanx@usc.edu
 David Garry dgarry@usc.edu  
 Derek Cheng derekwch@usc.edu  
 
-How to Run
 To deploy this application within Eclipse, import the ChutesAndLaddersGenerations.zip file into Eclipse. This should generate a project called ChutesAndLaddersGenerations with src and resources directories. The src directory contains the gameserver, gameclient, and packages. The gameserver directory contains the java files pertaining to the server side. The gameclient directory contains the java files pertaining to the client side.
     
 To execute the Game Server, run gameserver.GameServer.   
